@@ -1,6 +1,6 @@
 # Simple Gallery App using React
 
-Simple gallery app using React and Flickr API.
+Simple gallery app using React, React-Router and Flickr API.
 
 ## Setup
 
